@@ -1,4 +1,5 @@
 language: c
+arch: ppc64le
 
 notifications:
   email: false
